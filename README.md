@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# ***HI,🙋 I'M JANAGIRAMAN***
+# ***HI,🙋 I'M JANAGIRAMAN***
 janagiramanb07@mail.com 📧
 **9952183895**
 ***
@@ -8,4 +6,5 @@ janagiramanb07@mail.com 📧
 # skills🎯
 🔳 Python
 .🔳java
-🔳 c++
+🔳 c++## Hi there 👋
+
