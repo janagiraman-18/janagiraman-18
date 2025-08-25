@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-- 🏷️ **Name:** Janagiraman
+- 🏷️ **Name:** Janagiraman.B
 - 💻 **Role:** Software Engineer & Open Source Enthusiast
-- 🌏 **From:** [Your City, Country]
+- 🌏 **From:** [Madurai], India]
 - 🦄 **Fun Fact:** [Something quirky or interesting about you!]
-- 🧑‍🔬 **Current Focus:** [Your Current Learning/Research Area]
+- 🧑‍🔬 **Current Focus:** [Node JS]
 - 💬 **Ask Me About:** Web development, automation, open-source
 
 ---
@@ -33,12 +33,7 @@
 
 ---
 
-## 🏆 Highlights
 
-- ✨ Maintainer of [ProjectName](https://github.com/your-repo)
-- 📝 Regular tech blogger at [yourblog.com](https://yourblog.com)
-- 🎤 Speaker at [Event Name]
-- 🌱 Contributing to open source at [Organization Name]
 
 ---
 
