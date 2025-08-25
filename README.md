@@ -18,7 +18,7 @@
 
 - 🏷️ **Name:** Janagiraman.B
 - 💻 **Role:** Software Engineer & Open Source Enthusiast
-- 🌏 **From:** [Madurai], India]
+- 🌏 **From:** [Madurai, India]
 - 🦄 **Fun Fact:** [Something quirky or interesting about you!]
 - 🧑‍🔬 **Current Focus:** [Node JS]
 - 💬 **Ask Me About:** Web development, automation, open-source
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,aws,docker,git,github,linux,vscode" />
 </div>
 
----
+
 
 
 
